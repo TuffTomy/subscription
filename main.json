@@ -1,0 +1,32 @@
+{
+    "title": "Clappy Fish",
+    "subtitle": "the game about clapping",
+    "publisherName": "LimitFinity",
+    "feedIdentifier": "com.LimitFinity.CFish",
+    "formatVersion": "0.3",
+    "documents": [
+        {
+            "title": "Clappy Fish",
+            "overviewSubtitle": "Clap your way to victory!",
+            "detailSubtitle": "Clap to the end!",
+            "description": "Clap and make the fish go higher has you try to complete the game",
+            "contentIdentifier": "com.example.whimsicalswift.keypaths",
+            "contentVersion": "0.3",
+            "url": "keypaths/keypaths.playgroundbook.zip",
+            "publishedDate": "2017-11-13T21:13:57+00:00",
+            "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
+            "thumbnailURL": "keypaths/thumbnail.png",
+            "bannerImageURL": "keypaths/banner.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "keypaths/preview-1.png"
+            ]
+        }
+        
+    ]
+}
